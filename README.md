@@ -5,7 +5,7 @@ You can find task description file in the root directory ***(task-description.pd
 
 ## Prerequisites
 
-- Node.js, npm and Docker installed on your local machine
+- Node.js (>= 20 version), npm and Docker installed on your local machine
 
 ## How to start application?
 
